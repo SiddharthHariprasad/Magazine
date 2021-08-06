@@ -21,7 +21,7 @@ img {
     width: 450px;
     padding: 1em;
 }
-.header {
+.homelink {
     font-size: 2em;
 }
 @media (max-width: 1054px) {
