@@ -22,7 +22,7 @@ img {
     padding: 1em;
 }
 .header {
-    font-size: 40px;
+    font-size: 2em;
 }
 @media (max-width: 1054px) {
     img {
