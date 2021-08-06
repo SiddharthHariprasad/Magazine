@@ -21,6 +21,9 @@ img {
     width: 450px;
     padding: 1em;
 }
+.header {
+    font-size: 40px;
+}
 @media (max-width: 1054px) {
     img {
         float: left;
